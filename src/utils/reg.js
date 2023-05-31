@@ -1,0 +1,1 @@
+export const PWD_REG=/^[a-zA-Z]\w{3,12}$/;
